@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.div {
+  display: flex;
+  justify-content: space-between;
+}
+.head {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.p {
+  font-size: 15px;
+  color: grey;
+}
